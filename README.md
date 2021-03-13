@@ -5,7 +5,7 @@ how it works :
 it find the intersection between the 2 straight line of the enderpearl and give you the coordinate
 
 # Step 1 :
-*(including after the point too) (3.141) if you want to have a better precision*
+*(include the coordinate after the point for a better accuracy) (3.141)*
 
 enter coordinate X before launching the first enderpearl 
 enter coordinate Z before launching the first enderpearl
